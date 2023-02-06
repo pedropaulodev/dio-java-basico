@@ -10,7 +10,7 @@ public class AprendendoIdentacao {
         } else if (mediafinal == 6) {
             System.out.println("recuperação");
         } else
-            System.out.println("aprovado");
+            System.out.println("aprovadoaa");
 
     }
 }
