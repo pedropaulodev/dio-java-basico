@@ -5,6 +5,10 @@ public class Escopo {
     double saldo = 10.0;
     //disponivel em toda a classe
 
+    /**
+    *lala
+    *lala
+    */
     public void sacar(double valor){
 
         double novoSaldo = saldo - valor;
